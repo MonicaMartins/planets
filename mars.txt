@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 The Wolfman is big
+<<<<<<< HEAD
 Un changement
+=======
+oinaofsib
+>>>>>>> 2bf25ca94b15a62b7701e8b750f42189883eb99d
